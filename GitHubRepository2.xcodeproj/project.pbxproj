@@ -16,6 +16,7 @@
 		A58EFE0728CEFD1000F52B1D /* RepositoryListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58EFE0628CEFD1000F52B1D /* RepositoryListViewController.swift */; };
 		A58EFE0928CEFF8B00F52B1D /* RepositoryListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58EFE0828CEFF8B00F52B1D /* RepositoryListCell.swift */; };
 		A58EFE0C28CEFF9D00F52B1D /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = A58EFE0B28CEFF9D00F52B1D /* SnapKit */; };
+		A58EFE0E28CF04DF00F52B1D /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58EFE0D28CF04DF00F52B1D /* Repository.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A5581F0728CB6D7E002DCD25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A58EFE0628CEFD1000F52B1D /* RepositoryListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryListViewController.swift; sourceTree = "<group>"; };
 		A58EFE0828CEFF8B00F52B1D /* RepositoryListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryListCell.swift; sourceTree = "<group>"; };
+		A58EFE0D28CF04DF00F52B1D /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A5581F0728CB6D7E002DCD25 /* Info.plist */,
 				A58EFE0628CEFD1000F52B1D /* RepositoryListViewController.swift */,
 				A58EFE0828CEFF8B00F52B1D /* RepositoryListCell.swift */,
+				A58EFE0D28CF04DF00F52B1D /* Repository.swift */,
 			);
 			path = GitHubRepository2;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				A5581EFA28CB6D7D002DCD25 /* AppDelegate.swift in Sources */,
 				A5581EFC28CB6D7D002DCD25 /* SceneDelegate.swift in Sources */,
+				A58EFE0E28CF04DF00F52B1D /* Repository.swift in Sources */,
 				A58EFE0728CEFD1000F52B1D /* RepositoryListViewController.swift in Sources */,
 				A58EFE0928CEFF8B00F52B1D /* RepositoryListCell.swift in Sources */,
 			);
